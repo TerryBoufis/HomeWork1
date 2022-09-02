@@ -107,7 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* changes the font style , font color, and background of this section. It also sets the padding and height of the section */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
